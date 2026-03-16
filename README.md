@@ -1,5 +1,4 @@
-# CS5100 Final Project Phase 2 Report
-[Github Repository to Final Project](https://github.com/Fall25-CS5100-JesseAStern/final-project-fall-2025-super-awesome-team)
+# At Risk Student Prediction ML Pipeline
 
 ## 1. Use Full Dataset
 

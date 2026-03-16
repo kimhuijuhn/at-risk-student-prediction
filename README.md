@@ -10,7 +10,6 @@ This stage involves reducing the dimensionality of the dataset using feature imp
 As a result, the best $k$ was 30, and the dataset with reduced dimensionality suffered 26.14% F1 score decrease but the elapsed time decreased 55.23%. This approach would be appropriate if runtime is prioritized than accuracy of the model.
 
 ## 3. Stacking
-(following the textbook as reference)
 
 In this stage, the following base models will be trained.
 * Logistic Regression (sklearn library)
